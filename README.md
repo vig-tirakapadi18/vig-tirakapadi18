@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vig-tirakapadi18
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development in online
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web Development online
 
 <!---
 vig-tirakapadi18/vig-tirakapadi18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
