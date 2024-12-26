@@ -5,3 +5,5 @@
 🎯 Goal: To Become A Better Developer and Do As Many As Personal Projects As I Can
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vig-tirakapadi18&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vig-tirakapadi18&layout=compact)
